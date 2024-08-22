@@ -1,0 +1,68 @@
+{
+    "search" : [
+        {
+            "id": 1,
+            "name": "Apple iPhone 12",
+            "price": 799,
+            "image": "https://images.unsplash.com/photo-1695048132790-baebe5b7e975?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stock": 10,
+            "description": "Apple iPhone 12, 64GB, Blue - Fully Unlocked (Renewed Premium)"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone 11",
+            "price": 699,
+            "image": "https://images.unsplash.com/photo-1629697776809-f37ceac39e77?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stock": 5,
+            "description": "Apple iPhone 11, 64GB, Black - Fully Unlocked (Renewed Premium)"
+        },
+        {
+            "id": 3,
+            "name": "Apple iPhone 12 Pro",
+            "price": 999,
+            "image": "https://images.unsplash.com/photo-1695048132790-baebe5b7e975?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stock": 7,
+            "description": "Apple iPhone 12 Pro, 128GB, Gold - Fully Unlocked (Renewed Premium)"
+        },
+        {
+            "id": 4,
+            "name": "Apple iPhone 12 Pro Max",
+            "price": 1099,
+            "image": "https://images.unsplash.com/photo-1629697776809-f37ceac39e77?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stock": 3,
+            "description": "Apple iPhone 12 Pro Max, 128GB, Graphite - Fully Unlocked (Renewed Premium)"
+        },
+        {
+            "id": 5,
+            "name": "Apple iPhone SE",
+            "price": 399,
+            "image": "https://images.unsplash.com/photo-1695048132790-baebe5b7e975?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stock": 2,
+            "description": "Apple iPhone SE, 64GB, White - Fully Unlocked (Renewed Premium)"
+        },
+        {
+            "id": 6,
+            "name": "Apple iPhone XR",
+            "price": 499,
+            "image": "https://images.unsplash.com/photo-1629697776809-f37ceac39e77?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stock": 6,
+            "description": "Apple iPhone XR, 64GB, Black - Fully Unlocked (Renewed Premium)"
+        },
+        {
+            "id": 7,
+            "name": "Apple iPhone XS",
+            "price": 599,
+            "image": "https://images.unsplash.com/photo-1695048132790-baebe5b7e975?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stock": 9,
+            "description": "Apple iPhone XS, 64GB, Silver - Fully Unlocked (Renewed Premium)"
+        },
+        {
+            "id": 8,
+            "name": "Apple iPhone XS Max",
+            "price": 699,
+            "image": "https://images.unsplash.com/photo-1629697776809-f37ceac39e77?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stock": 4,
+            "description": "Apple iPhone XS Max, 64GB, Space Gray - Fully Unlocked (Renewed Premium)"  
+        }
+    ]
+}
